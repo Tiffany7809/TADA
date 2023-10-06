@@ -6,55 +6,18 @@ body {
 
 .heading {
     text-align: center;
-    background-color: #078570;
-    margin: 0;
-    padding: 0;
-    height: 12vh;
-  
 }
 
-#header1 {
-    padding-bottom: 0%;
-    margin-bottom: 0%;
-}
 
-#header2 {
-    padding-top: 0;
-    font-size: 20px;
-    color:#034136;
-    padding-top: 0%;
-    margin-top: 0%;
-
-}
-
-#T {
-    color:#099e85;
-    font-family: 'Ballet', cursive;
-    /* font-family: 'Birthstone Bounce', cursive; */
-    /* font-family: 'Charmonman', cursive; */
-    /* font-family: 'Monsieur La Doulaise', cursive; */
-    padding-top: 0;
-    margin-top:0;
-    margin-bottom: 0;
-    padding-bottom: 0;
-    font-size: 600%;
-}
 h1 {
-    color:#046656;
-}
-/* h2 {
-    font-size: 20px;
-    color:#034136;
-    padding-top: 0;
-
-} */
-h1, h2{
 
     font-family: 'Charmonman', cursive;
-    padding-top: 0;
-    margin-top:0;
-    margin-bottom: 0;
-    padding-bottom: 0;
+    margin: top 0%;;
+    margin-bottom: 0%;
+    padding: 0%;
+    color:#046656;
+
+    
 }
 
 ul {
@@ -62,7 +25,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #0a0707;
+    background-color: #02332c;
 }
 
 li {
@@ -85,7 +48,6 @@ li a:hover {
 
 #test {
 font-family: 'Charmonman', cursive;
-padding-top: 240px;
 text-align: center;
 font-size: 30px;
 color:#01201b;
